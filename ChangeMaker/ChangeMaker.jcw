@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ChangeMaker</label>
+	</settings>
+	<users>
+		<user>
+			<path>ChangeMaker.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ChangeMaker.jcp</path>
+		</project>
+	</projects>
+</workspace>

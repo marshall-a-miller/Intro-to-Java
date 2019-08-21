@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MultipleOfFive</label>
+	</settings>
+	<users>
+		<user>
+			<path>MultipleOfFive.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MultipleOfFive.jcp</path>
+		</project>
+	</projects>
+</workspace>

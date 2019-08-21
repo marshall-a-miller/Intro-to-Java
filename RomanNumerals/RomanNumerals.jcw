@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>RomanNumerals</label>
+	</settings>
+	<users>
+		<user>
+			<path>RomanNumerals.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>RomanNumerals.jcp</path>
+		</project>
+	</projects>
+</workspace>

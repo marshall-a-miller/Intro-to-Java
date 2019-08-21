@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>RockPaperScissors</label>
+	</settings>
+	<users>
+		<user>
+			<path>RockPaperScissors.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>RockPaperScissors.jcp</path>
+		</project>
+	</projects>
+</workspace>

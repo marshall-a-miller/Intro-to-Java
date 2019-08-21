@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>StringMutation</label>
+	</settings>
+	<users>
+		<user>
+			<path>StringMutation.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>StringMutation.jcp</path>
+		</project>
+	</projects>
+</workspace>

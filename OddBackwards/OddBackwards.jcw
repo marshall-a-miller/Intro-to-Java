@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>OddBackwards</label>
+	</settings>
+	<users>
+		<user>
+			<path>OddBackwards.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>OddBackwards.jcp</path>
+		</project>
+	</projects>
+</workspace>

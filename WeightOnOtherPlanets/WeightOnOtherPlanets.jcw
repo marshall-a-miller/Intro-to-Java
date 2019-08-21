@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>WeightOnOtherPlanets</label>
+	</settings>
+	<users>
+		<user>
+			<path>WeightOnOtherPlanets.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>WeightOnOtherPlanets.jcp</path>
+		</project>
+	</projects>
+</workspace>

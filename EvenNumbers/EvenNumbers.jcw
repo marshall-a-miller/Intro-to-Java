@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>EvenNumbers</label>
+	</settings>
+	<users>
+		<user>
+			<path>EvenNumbers.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>EvenNumbers.jcp</path>
+		</project>
+	</projects>
+</workspace>

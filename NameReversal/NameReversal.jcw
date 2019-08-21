@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>NameReversal</label>
+	</settings>
+	<users>
+		<user>
+			<path>NameReversal.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NameReversal.jcp</path>
+		</project>
+	</projects>
+</workspace>
